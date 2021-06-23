@@ -1,0 +1,140 @@
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 19: [: 24: unary operator expected
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 25: [!: command not found
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 36: /sys/class/gpio/gpio24/direction: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 37: /sys/class/gpio/gpio24/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 19: [: 25: unary operator expected
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 25: [!: command not found
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 36: /sys/class/gpio/gpio25/direction: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 37: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio24/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 55: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 104:  3682 Terminated              led_blink
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 50: /sys/class/gpio/gpio25/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 81: kill: (3682) - No such process
+/home/ubuntu/NewGaitMaven/led-linuxgpio.sh: line 46: /sys/class/gpio/gpio24/value: No such file or directory

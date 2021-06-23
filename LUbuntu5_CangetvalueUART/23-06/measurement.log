@@ -1,0 +1,10 @@
+[Fri Apr  2 06:05:23 EEST 2021] Starting datalogger
+[Fri Apr  2 06:05:24 EEST 2021] Led 0 connected
+[Fri Apr  2 06:05:29 EEST 2021] Led 1 connected
+[Fri Apr  2 06:05:32 EEST 2021] Starting loop
+[Fri Apr  2 06:05:33 EEST 2021] Offline: Starting RECORDING
+[Fri Apr  2 06:05:39 EEST 2021] Offline: Starting logger
+[Fri Apr  2 06:06:32 EEST 2021] /vectornav/imugps not found
+[Fri Apr  2 06:06:32 EEST 2021] /rosout not found
+[Fri Apr  2 06:06:43 EEST 2021] /vectornav/imugps not found
+[Fri Apr  2 06:06:43 EEST 2021] /rosout not found

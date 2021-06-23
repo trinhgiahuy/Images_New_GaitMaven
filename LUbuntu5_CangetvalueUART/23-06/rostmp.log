@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/bin/rostopic", line 34, in <module>
+    import rostopic
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rostopic/__init__.py", line 50, in <module>
+    from xmlrpc.client import Fault
+  File "/usr/lib/python2.7/dist-packages/xmlrpc/__init__.py", line 1, in <module>
+    from __future__ import absolute_import
+KeyboardInterrupt
